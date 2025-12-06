@@ -34,7 +34,8 @@
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-12-05 at 22 54 45_63620612](https://github.com/user-attachments/assets/33d97132-e249-4c77-b621-678299cec05d)
-![WhatsApp Image 2025-12-05 at 22 55 48_59674666](https://github.com/user-attachments/assets/eccaf599-bc1e-47de-943e-56383d2731cf)
+<img width="1600" height="1146" alt="image" src="https://github.com/user-attachments/assets/bb8dd5d5-4f39-4ee6-9710-2e6e0a6be331" />
+
 
 
 ---
