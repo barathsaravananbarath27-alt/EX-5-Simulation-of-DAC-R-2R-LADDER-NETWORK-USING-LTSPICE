@@ -20,12 +20,15 @@
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-12-05 at 22 52 13_b435b102](https://github.com/user-attachments/assets/3ebee5a6-50a0-456e-8d74-65184c5178d3)
+<img width="1600" height="1494" alt="image" src="https://github.com/user-attachments/assets/646b246c-d7eb-4a5f-ad11-fc7bf9a60c0a" />
 
 ---
 ## MODEL GRAPH
-![WhatsApp Image 2025-12-05 at 22 53 02_c41c0f60](https://github.com/user-attachments/assets/782f7eed-4029-4879-a61c-bb8552fb5ba8)
-![WhatsApp Image 2025-12-05 at 22 53 55_da44e89c](https://github.com/user-attachments/assets/622db209-394b-43b7-8044-1605680972d7)
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/672a8b17-1691-4423-b68c-29b5ff0e288b" />
+
+## DESIGIN
+<img width="1424" height="1600" alt="image" src="https://github.com/user-attachments/assets/6555b648-f4d8-4d79-b37e-1394407d8e70" />
+
 
 
 ---
